@@ -7,6 +7,7 @@ const Login = () => {
     <div className={styles.container}>
       <div className={styles.imageContainer}>
         <div className={styles.textContainer}>
+          
           <p className={styles.textHeading}>Discover new things on Superapp</p>
         </div>
         <img src={main} className={styles.mainImage} />
