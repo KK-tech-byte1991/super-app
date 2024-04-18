@@ -55,16 +55,32 @@
     font-weight: 400;
     font-family: "DM Sans";
 }
-.loginInput{
+
+.loginInput {
     width: 50%;
-    height: 65px;
+    height: 40px;
     padding-left: 20px;
     background-color: #292929;
-}
-.loginInput {
     color: #7C7C7C;
     font-weight: 400;
-    font-family: "Dm Sans",sans-serif;
+    font-family: "Dm Sans", sans-serif;
     font-size: 20px;
+}
 
+
+.signUpButton {
+    width: 70%;
+    height: 40px;
+    top: 761px;
+    left: 1047px;
+    gap: 0px;
+    border-radius:20px;
+    opacity: 0px;
+    background-color: #72DB73;
+
+}
+.errorField{
+    width: 55%;
+    margin: auto;
+    text-align: left;
 }
